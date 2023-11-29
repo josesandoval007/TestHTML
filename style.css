@@ -1,0 +1,78 @@
+body{
+    background-color:  rgba(247,233,220,255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.MyBalance, .a92148{
+    color: rgba(255,243,235,255);
+}
+
+.MyBalance{
+    position: relative;
+    top:10px;
+    left: 10px;
+}
+.simbol1{
+    position: relative;
+    top: -75px;
+    text-align: right ;
+    left: -50px;
+    color: aliceblue;
+}
+.simbol2{
+    position: relative;
+    top: -143px;
+    text-align: right ;
+    left: -25px;
+    color: aliceblue;
+}
+.a92148{
+    position: relative;
+    left: 10px;
+}
+.Spending{
+    position: relative;
+    top:10px;
+    left: 10px;
+}
+.card-container1{
+    background-color:#ec755d ;
+    border-radius:11px ;
+    height:80px;
+    width: 300px;
+}
+.card-container2{
+    background-color: rgba(255,252,247,255);
+    border-radius:11px ;
+    height:400px;
+    width: 300px;
+}
+.TotalthisMount{
+    color: rgba(71, 65, 71, 0.5);
+    position: relative;
+    top:260px;
+    left: 10px;
+    
+}
+.fromLastMonth{
+    color: rgba(71, 65, 71, 0.5);
+    position: relative;
+    top:180px;
+    text-align: right ;
+    left: -20px;
+    
+}
+.a478333{
+    position: relative;
+    top:260px;
+    left: 10px;
+}
+.a24{
+    position: relative;
+    top:180px;
+    text-align: right ;
+    left: -20px;
+}
